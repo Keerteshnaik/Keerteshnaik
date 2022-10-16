@@ -6,3 +6,8 @@ Cybersecurity is the practice of protecting computer networks and user data from
 <br/> <br/> <br/> <br/> <br/>
 <img align="center" src="https://www.crushpixel.com/big-static18/preview4/cyber-security-vector-logo-with-2786796.jpg">
 <br/> <br/> <br/> 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/keertesh-naik-4b6ab1238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keertesh_naik" height="30" width="40" /></a>
+<a href="https://www.instagram.com/keerteshnaik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keertesh_naik" height="30" width="40" /></a>
