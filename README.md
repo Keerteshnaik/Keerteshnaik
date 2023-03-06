@@ -1,8 +1,8 @@
-# Hi there 🙋🏻‍♂️, It's me KEERTESH NAIK
+# Execuse me 🙋🏻‍♂️, It's me KEERTESH NAIK
 
 Am an **Cybersecurity** student! Presently pursuing my bachelor degree at SUIET.  
 
-Cybersecurity is the practice of protecting computer networks and user data from unauthorized access or theft. A good cybersecurity student is one who takes the time to learn about the latest threats and how to protect against them. They also have a strong understanding of the importance of data security and take steps to ensure that their own data and the data of others is protected. So being an **Cybersecurity** student I want to explore new things to become an good engineer.
+I am a Btech student with a strong foundation in programming languages like C, Java, and Python, along with a solid grasp of HTML and CSS for web development. As a student of technology, I possess an analytical mindset and the ability to solve complex problems. I have a passion for learning new technologies and exploring new concepts, which has helped me to develop a strong technical aptitude. I am committed to leveraging my skills and knowledge to contribute to the success of organizations in the technology industry.
 <br/> <br/> <br/> <br/> <br/>
 <img align="center" src="https://www.crushpixel.com/big-static18/preview4/cyber-security-vector-logo-with-2786796.jpg">
 <br/> <br/> <br/> 
